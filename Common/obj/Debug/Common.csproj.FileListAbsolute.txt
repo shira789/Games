@@ -1,0 +1,14 @@
+C:\Users\shira\source\repos\GameConsole\Common\obj\Debug\Common.csprojAssemblyReference.cache
+C:\Users\shira\source\repos\GameConsole\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\shira\source\repos\GameConsole\Common\bin\Debug\Common.dll.config
+C:\Users\shira\source\repos\GameConsole\Common\bin\Debug\Common.dll
+C:\Users\shira\source\repos\GameConsole\Common\bin\Debug\Common.pdb
+C:\Users\shira\source\repos\GameConsole\Common\obj\Debug\Common.dll
+C:\Users\shira\source\repos\GameConsole\Common\obj\Debug\Common.pdb
+C:\Users\shira\Downloads\game\Common\bin\Debug\Common.dll.config
+C:\Users\shira\Downloads\game\Common\bin\Debug\Common.dll
+C:\Users\shira\Downloads\game\Common\bin\Debug\Common.pdb
+C:\Users\shira\Downloads\game\Common\obj\Debug\Common.csprojAssemblyReference.cache
+C:\Users\shira\Downloads\game\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\shira\Downloads\game\Common\obj\Debug\Common.dll
+C:\Users\shira\Downloads\game\Common\obj\Debug\Common.pdb
